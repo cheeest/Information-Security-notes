@@ -6,7 +6,6 @@
       {
         "id": "ff6f1a4692ccf839",
         "type": "tabs",
-        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "76682f9a45ee5aba",
@@ -26,14 +25,10 @@
             "id": "c524fb5de6d114e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Linux Admin/Linux Terminal.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Linux Terminal"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -98,16 +93,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "СЗИ.md",
+                "file": "Linux Admin/Абузы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "СЗИ"
+              "title": "Абузы"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -236,13 +231,23 @@
               "icon": "lucide-list",
               "title": "Outline of СЗИ"
             }
+          },
+          {
+            "id": "eb390066dd63fcb7",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -251,19 +256,21 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f616323f043f6f43",
+  "active": "64438f04050c0437",
   "lastOpenFiles": [
     "Forensic.md",
-    "СЗИ.md",
-    "Network.md",
+    "Linux Admin/Linux Terminal.md",
+    "Linux Admin/Абузы.md",
     "Welcome.md",
     "Web.md",
-    "Linux Admin/Абузы.md",
+    "Network.md",
+    "README.md",
+    "СЗИ.md",
     "Network",
-    "Linux Admin/Linux Terminal.md",
     "Linux Admin",
     "create a link.md"
   ]
