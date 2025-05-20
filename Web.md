@@ -1,6 +1,5 @@
 (памагити)
-Только HackTricks тебе в помощь.
-Помнить про IDOR и подобные смешные уязвы
+
 ### SQLmap
 `sqlmap -u "http://example.com/?id=1"`
 а оcтальное на HackTricks
